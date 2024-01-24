@@ -31,4 +31,4 @@ Tests were completed using a diff. To run these tests, use:
 ```
 ## Gameplay screenshot
 
-<img src="https://github.com/CarelleRichards/qwirkle/assets/137973963/75cd637f-eee8-4d9d-8335-c212eb69bf57" width=500px>
+<img src="https://github.com/CarelleRichards/qwirkle/assets/137973963/4ddbcb79-be7f-47f6-8377-7a6c7b92121e" width=500px>
