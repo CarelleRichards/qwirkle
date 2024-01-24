@@ -1,0 +1,29 @@
+
+Welcome to Qwirkle
+------------------
+
+Menu
+----
+
+1. New game
+2. Load game
+3. Credits (show student information)
+4. Quit
+> 
+Load game
+---------
+
+Enter the filename from which load a game
+> 
+File does not exist!
+
+Menu
+----
+
+1. New game
+2. Load game
+3. Credits (show student information)
+4. Quit
+> 
+Goodbye
+

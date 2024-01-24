@@ -1,0 +1,34 @@
+Welcome to Qwirkle
+------------------
+
+Menu
+----
+
+1. New game
+2. Load game
+3. Credits (show student information)
+4. Quit
+> 
+
+New game
+--------
+
+1. Player vs. computer
+2. Two players
+3. Three players
+4. Four players
+5. Go back
+> 
+
+Starting a new game
+
+Enter a name for player 1 (uppercase characters only)
+> 
+
+Enter the name of the player or enter ^D to quit.
+Names must be unique and can only have capital letters (no numbers/symbols).
+The name COMPUTER is reserved.
+
+> 
+
+Goodbye

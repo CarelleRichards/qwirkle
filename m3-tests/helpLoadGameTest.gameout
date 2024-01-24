@@ -1,0 +1,34 @@
+
+Welcome to Qwirkle
+------------------
+
+Menu
+----
+
+1. New game
+2. Load game
+3. Credits (show student information)
+4. Quit
+> 
+Load game
+---------
+
+Enter the filename from which load a game
+> 
+Directory is set to m3-tests.
+Enter relative path to the saved game file.
+Saved game files must be in .save format.
+Do not enter the .save extension name.
+Filenames can't have whitespace or special characters.
+
+Menu
+----
+
+1. New game
+2. Load game
+3. Credits (show student information)
+4. Quit
+> 
+
+Goodbye
+

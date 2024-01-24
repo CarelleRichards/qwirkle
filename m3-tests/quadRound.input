@@ -1,0 +1,11 @@
+1
+4
+CARELLE
+BOB
+TOM
+RYAN
+place Y3 at Z0
+place Y6 at Z1
+place G6 at Y1
+replace G6
+^D
